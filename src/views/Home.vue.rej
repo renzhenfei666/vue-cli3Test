@@ -1,0 +1,10 @@
+diff a/src/views/Home.vue b/src/views/Home.vue	(rejected hunks)
+@@ -1,7 +1,7 @@
+ <template>
+   <div class="home">
+     <img alt="Vue logo" src="../assets/logo.png" />
+-    <HelloWorld msg="Welcome to Your Vue.js App" />
++    <HelloWorld msg="Welcome to Your Vue.js App12312312312" />
+   </div>
+ </template>
+ 
