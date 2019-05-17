@@ -13,6 +13,10 @@ export default {
   name: "home",
   components: {
     HelloWorld
+  },
+  methods:{
+  },
+  watch:{
   }
 };
 </script>
